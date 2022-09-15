@@ -27,4 +27,4 @@ Eu sou o João Victor dos Reis, tenho 24 anos, moro em Curitiba/PR e estou cursa
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
-                       ![giphy](https://user-images.githubusercontent.com/106037010/190324752-5a77044b-2036-4188-9523-72b4b2b37430.gif)
+![giphy](https://user-images.githubusercontent.com/106037010/190324752-5a77044b-2036-4188-9523-72b4b2b37430.gif)
