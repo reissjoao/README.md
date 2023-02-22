@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/106037010/206037774-543a9d36-df5b-4b71-acec-026412ee3c01.jpg"/>
 
 
-#### Olá, eu sou o João Victor dos Reis, tenho 24 anos, moro em Curitiba/PR e estou cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniDBSCO.
+#### Olá rede, eu sou o João Victor dos Reis, tenho 25 anos, moro em Curitiba/PR e estou cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniDBSCO. Atualmente atuo como estagiário em desenvolvimento Web pela Startup [3MIND Marketing e Tecnologia](https://www.linkedin.com/company/3mindconsultoria/mycompany/verification/). 
 
 <!-- - 📚 An investment in knowledge pays the best interest. – Benjamin Franklin -->
 
