@@ -3,7 +3,7 @@
   <a href="mailto:joaooreis@hotmail.com" target="_blank" alt="Hotmail">
   <img height="25em" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-reis-305716237/" target="_blank" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-reis-305716237/" target="_blank" rel="noopener noreferrer" alt="Linkedin">
   <img height="25em" target="_blank" rel="noopener noreferrer" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
   <a href="https://www.instagram.com/joaoreiss_/" target="_blank" alt="Linkedin">
